@@ -1,5 +1,3 @@
-## Description
-
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Project setup instructions
@@ -62,20 +60,20 @@ Check out a few resources that may come in handy when working with NestJS:
 - To stay in the loop and get updates, follow us on [X](https://x.com/nestframework) and [LinkedIn](https://linkedin.com/company/nestjs).
 - Looking for a job, or have a job to offer? Check out our official [Jobs board](https://jobs.nestjs.com).
 
-##Project Overview:
+## Project Overview:
 
 This is a RESTful Notes API built using NestJS, a progressive Node.js framework. It allows users to create, read, update, and delete notes with title and description fields. The API uses DTOs and class-validator for robust input validation to ensure data integrity.
 
 
 
-##technology stack:
+## Technology Stack:
 
--nestjs
--git
--postman
--nodejs
+- nestjs
+- git
+- postman
+- nodejs
 
-##features:
+## Features:
 
 Key features include:
 
@@ -85,7 +83,24 @@ Strong input validation and automatic request transformation
 
 Modular and scalable NestJS structure
 
-##challenges and solutions:
+## Challenges and Solutions:
+
+# learning a new and unfamiliar framework
+- resolved by hardwork and perserverance
+
+# handeling optional fields anf type safety
+- resolved by implementing dto
+
+# data loss on restarting server:
+- resolved by using dataintegration through postgreSQL
+
+## Future Enhancements:
+
+- a properly designed frontend
+- option to add images
+- google authentication for increased privacy and security
+- search bars and filtering
+
 
 
 
