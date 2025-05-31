@@ -85,13 +85,13 @@ Modular and scalable NestJS structure
 
 ## Challenges and Solutions:
 
-# learning a new and unfamiliar framework
+#### learning a new and unfamiliar framework
 - resolved by hardwork and perserverance
 
-# handeling optional fields anf type safety
+#### handeling optional fields anf type safety
 - resolved by implementing dto
 
-# data loss on restarting server:
+#### data loss on restarting server:
 - resolved by using dataintegration through postgreSQL
 
 ## Future Enhancements:
